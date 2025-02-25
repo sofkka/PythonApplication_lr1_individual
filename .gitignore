@@ -1,0 +1,28 @@
+# Логи
+*.log
+
+# Артефакты сборки
+/build/
+/dist/
+/out/
+
+# Зависимости Node.js
+/node_modules/
+
+# Папки IDE
+/.idea/
+/.vscode/
+/.nbproject/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Заметки разработчика
+notes.txt
+todo.md
+*.tmp
+
+# Файлы конфигурации
+*.env
+*.local
